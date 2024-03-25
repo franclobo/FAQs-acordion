@@ -8,8 +8,8 @@ export default function Home() {
     <>
     <main className="content-container flex flex-col items-left justify-between">
       <header className="header-container flex items-center justify-flex-start mb-10">
-      <Image src={Start} alt="Start" className="mr-10"/>
-      <h1 className="color-black flex text-4xl font-bold">
+      <Image src={Start} alt="Start" className="mr-8"/>
+      <h1 className="color-black flex text-5xl font-bold">
         FAQs
       </h1>
       </header>
