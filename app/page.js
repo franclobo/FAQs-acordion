@@ -24,7 +24,7 @@ export default function Home() {
 
       <p className="mt-4 leading-relaxed text-gray-700">
       Frontend Mentor offers realistic coding challenges to help developers improve their 
-  frontend coding skills with projects in HTML, CSS, and JavaScript. It's suitable for 
+  frontend coding skills with projects in HTML, CSS, and JavaScript. It&apos;s suitable for 
   all levels and ideal for portfolio building.
       </p>
     </details>
@@ -55,13 +55,13 @@ export default function Home() {
       </summary>
 
       <p className="mt-4 leading-relaxed text-gray-700">
-      Yes, you can use projects completed on Frontend Mentor in your portfolio. It's an excellent
+      Yes, you can use projects completed on Frontend Mentor in your portfolio. It&apos;s an excellent
   way to showcase your skills to potential employers!
       </p>
     </details>
     <details className="group py-8 [&_summary::-webkit-details-marker]:hidden">
       <summary className="grayish-purple flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
-        <h2 className="text-lg font-medium">How can I get help if I'm stuck on a Frontend Mentor challenge?</h2>
+        <h2 className="text-lg font-medium">How can I get help if I&apos;m stuck on a Frontend Mentor challenge?</h2>
 
         <span className="relative size-5 shrink-0">
         <Image src={Minus} alt="Minus" className="absolute inset-0 size-5 opacity-0 group-open:opacity-100" />
@@ -70,7 +70,7 @@ export default function Home() {
       </summary>
 
       <p className="mt-4 leading-relaxed text-gray-700">
-      The best place to get help is inside Frontend Mentor's Discord community. There's a help 
+      The best place to get help is inside Frontend Mentor&apos;s Discord community. There&apos;s a help 
   channel where you can ask questions and seek support from other community members.
       </p>
     </details>
