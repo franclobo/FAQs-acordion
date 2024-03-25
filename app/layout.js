@@ -12,10 +12,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={work_sans.className}>{children}</body>
-      <div class="attribution text-center">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Francisco Borja</a>.
-  </div>
     </html>
   );
 }

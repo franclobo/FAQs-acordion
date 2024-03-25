@@ -5,6 +5,7 @@ import Plus from "../public/assets/images/icon-plus.svg";
 
 export default function Home() {
   return (
+    <>
     <main className="content-container flex flex-col items-left justify-between">
       <h1 className="color-black flex text-4xl font-bold mb-10">
         <Image src={Start} alt="Start" className="mr-10"/>
@@ -77,5 +78,12 @@ export default function Home() {
   </div>
 </div>
     </main>
+    <footer className="footer-container flex items-center justify-center">
+      <div class="attribution text-center">
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+        Coded by <a href="#">Francisco Borja</a>.
+      </div>
+    </footer>
+    </>
   );
 }
