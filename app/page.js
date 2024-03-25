@@ -6,7 +6,7 @@ import Plus from "../public/assets/images/icon-plus.svg";
 export default function Home() {
   return (
     <main className="content-container flex flex-col items-left justify-between">
-      <h1 className="flex text-4xl font-bold mb-10">
+      <h1 className="color-black flex text-4xl font-bold mb-10">
         <Image src={Start} alt="Start" className="mr-10"/>
         FAQs
       </h1>

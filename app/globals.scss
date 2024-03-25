@@ -39,6 +39,10 @@ body {
   padding: 20px;
   border-radius: 20px;
   background-color: var(--white);
+  width: calc(100% - 40px);
+}
+.color-black {
+  color: var(--foreground-rgb);
 }
 .grayish-purple:hover {
   color: var(--grayish_purple);
