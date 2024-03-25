@@ -29,7 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/franclobo/FAQs-acordion/assets/58642949/86abd350-1b6a-40b9-80e8-9c3fd88b038f)
+
 
 ### Links
 
