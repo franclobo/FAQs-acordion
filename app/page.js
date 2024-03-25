@@ -81,7 +81,7 @@ export default function Home() {
 </div>
     </main>
     <footer className="footer-container flex items-center justify-center">
-      <div class="attribution text-center">
+      <div className="attribution text-center">
         Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
         Coded by <a href="#">Francisco Borja</a>.
       </div>
