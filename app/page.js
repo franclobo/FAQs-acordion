@@ -7,10 +7,12 @@ export default function Home() {
   return (
     <>
     <main className="content-container flex flex-col items-left justify-between">
-      <h1 className="color-black flex text-4xl font-bold mb-10">
-        <Image src={Start} alt="Start" className="mr-10"/>
+      <header className="header-container flex items-center justify-flex-start mb-10">
+      <Image src={Start} alt="Start" className="mr-10"/>
+      <h1 className="color-black flex text-4xl font-bold">
         FAQs
       </h1>
+      </header>
       <div className="flow-root">
   <div className="-my-8 divide-y divide-gray-100">
     <details className="group py-8 [&_summary::-webkit-details-marker]:hidden" open>
